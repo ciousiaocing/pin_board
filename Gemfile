@@ -19,6 +19,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
+gem 'awesome_rails_console'
 
 group :development, :test do
   gem 'byebug', platform: :mri
