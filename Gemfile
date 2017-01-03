@@ -21,6 +21,7 @@ gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'devise'
 gem 'awesome_rails_console'
+gem 'paperclip'
 
 group :development, :test do
   gem 'byebug', platform: :mri
