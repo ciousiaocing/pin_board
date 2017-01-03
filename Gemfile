@@ -22,6 +22,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'awesome_rails_console'
 gem 'paperclip'
+gem 'masonry-rails'
 
 group :development, :test do
   gem 'byebug', platform: :mri
